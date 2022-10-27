@@ -1,4 +1,5 @@
 Brand - Maruti
 Color - Black
 Seats - 5
-price - 10 lakh
+Price - 10 lakh
+Tyre - 4
