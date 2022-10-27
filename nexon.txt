@@ -1,3 +1,4 @@
 Brand - Tata.
 Color - Blue.
 Seats - 5.
+transmission - Manual
