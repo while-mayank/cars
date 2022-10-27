@@ -4,3 +4,4 @@ Seats - 5
 Price - 10 lakh
 Tyre - 4
 Version - 1
+Glasses - BulletProof
